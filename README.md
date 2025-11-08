@@ -48,9 +48,10 @@ El proyecto permite a las EPS y clínicas **mejorar la satisfacción del pacient
 
 | Métrica        | Qué muestra | Formato amigable |
 |----------------|------------|----------------|
-| **Precisión@3** | % de coberturas predichas correctamente entre las 3 principales | “83.87% de predicciones acertadas” |
-| **Recall@3**   | % de coberturas relevantes recuperadas dentro de las 3 principales | “83.87% de coberturas relevantes predichas” |
-| **RMSE**       | Error cuadrático medio de predicción de afinidad | “Error promedio de 0.09 en la predicción de afinidad” |
+| **Precisión@3** | % de coberturas predichas correctamente entre las 3 principales | “66.67% de predicciones acertadas” |
+| **Recall@3**   | % de coberturas relevantes recuperadas dentro de las 3 principales | “68.33% de coberturas relevantes predichas” |
+| **RMSE**       | Error cuadrático medio de predicción de afinidad | “Error promedio de 0.02 en la predicción de afinidad” |
+
 
 ---
 
