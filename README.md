@@ -92,7 +92,7 @@ El proyecto permite a las EPS y clínicas **mejorar la satisfacción del pacient
 
 ## 🚀 Resultados y Conclusiones Empresariales
 
-Las predicciones generadas por el modelo permiten **personalizar coberturas médicas de manera precisa según el perfil de cada paciente**, considerando edad, historial médico, enfermedades crónicas y frecuencia de consultas. Las métricas obtenidas —**Precisión@3 de 83.87%, Recall@3 de 83.87% y RMSE de 0.09**— demuestran un modelo altamente confiable, capaz de identificar las coberturas más adecuadas dentro de las opciones disponibles, minimizando errores de predicción y aumentando la certeza en la toma de decisiones.
+Las predicciones generadas por el modelo permiten **personalizar coberturas médicas de manera precisa según el perfil de cada paciente**, considerando edad, historial médico, enfermedades crónicas y frecuencia de consultas. Las métricas obtenidas —**Precisión@3 de 66.67%, Recall@3 de 68.33% y RMSE de 0.02**— muestran un modelo confiable, capaz de **identificar las coberturas más adecuadas dentro de las opciones disponibles**, minimizando errores de predicción y aumentando la certeza en la toma de decisiones.
 
 El análisis de las visualizaciones ofrece hallazgos clave:  
 - La distribución de pacientes por edad y enfermedades crónicas permite identificar **segmentos prioritarios** para planes más completos.  
